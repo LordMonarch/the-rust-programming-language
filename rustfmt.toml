@@ -1,0 +1,7 @@
+group_imports = "StdExternalCrate"
+imports_granularity = "Module"
+match_block_trailing_comma = true
+use_field_init_shorthand = true
+chain_width = 60
+max_width = 100
+indent_style = "Block"

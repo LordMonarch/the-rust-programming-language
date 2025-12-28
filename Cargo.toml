@@ -1,0 +1,6 @@
+[workspace]
+resolver = "3"
+members = [
+    "01-getting-startet/hello_world", 
+    "02-programming-a-guessing-game/guessing_game", "03-common-programming-concepts/aufgaben", 
+    "03-common-programming-concepts/comments", "03-common-programming-concepts/control-flow/branches", "03-common-programming-concepts/control-flow/loops", "03-common-programming-concepts/data_types", "03-common-programming-concepts/functions", "03-common-programming-concepts/variables", "04-understanding-ownership/mutable_references", "04-understanding-ownership/ownership", "04-understanding-ownership/references_and_borrowing"]
